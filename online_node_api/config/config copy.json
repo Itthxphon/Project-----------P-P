@@ -1,0 +1,77 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "@Admin1132",
+    "database": "Stock_BrownA00419",
+    "host": "nippomobileapi.ddns.net",
+    "dialect": "mssql",
+    "port":"8021"
+  },
+  "test": {
+    "username": "sa",
+    "password": "@Admin1132",
+    "database": "Stock_BrownA00419",
+    "host": "stockgenius.ddns.net",
+    "dialect": "mssql",
+    "port":"8021"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  }
+}
+
+
+{
+  "development": {
+    "username": "admin",
+    "password": "admin",
+    "database": "Stock_BrownBarcode",
+    "host": "demostockonline.ddns.net",
+    "dialect": "mssql",
+    "port":"1433"
+  },
+  "test": {
+    "username": "admin",
+    "password": "admin",
+    "database": "Stock_BrownBarcode",
+    "host": "demostockonline.ddns.net",
+    "dialect": "mssql",
+    "port":"1433"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  }
+}
+{
+  "development": {
+    "username": "sa",
+    "password": "@Admin1132",
+    "database": "Stock_Brown_RBST21072AGP1KQ8",
+    "host": "stockgenius.ddns.net",
+    "dialect": "mssql",
+    "port":"8021"
+  },
+  "test": {
+    "username": "sa",
+    "password": "@Admin1132",
+    "database": "Stock_Brown_RBST21072AGP1KQ8",
+    "host": "stockgenius.ddns.net",
+    "dialect": "mssql",
+    "port":"8021"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  }
+}

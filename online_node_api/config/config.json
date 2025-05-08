@@ -1,0 +1,19 @@
+
+{
+  "test": {
+    "username": "sa",
+    "password": "@Service2344",
+    "database": "Stock_BrownConnect",
+    "host": "172.16.11.223",
+    "dialect": "mssql",
+    "port":"1433"
+  },
+  "production": {
+    "username": "sa",
+    "password": "@Admin1132",
+    "database": "Stock_Brown_RBST24119KYB7M8F",
+    "host": "stockgenius.ddns.net",
+    "dialect": "mssql",
+    "port":"8021"
+  }
+}
